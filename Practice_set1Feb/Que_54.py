@@ -1,0 +1,1 @@
+# Python program to find the sum of number digits in list

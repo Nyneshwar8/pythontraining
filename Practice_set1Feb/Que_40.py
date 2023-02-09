@@ -1,0 +1,1 @@
+# Python program to remove multiple elements from a list using list comprehension

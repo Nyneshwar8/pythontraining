@@ -1,0 +1,1 @@
+# Remove falsy values from a list in Python
