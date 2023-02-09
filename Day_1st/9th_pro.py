@@ -6,8 +6,8 @@ print(b)
 
 
 # sub question 2nd
-a=b=[0,1,2]
+a=[0,1,2]
+c=3
+print(c in a)
 
-print(a is b)
-
-print(a)
+# print(a)

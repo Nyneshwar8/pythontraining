@@ -1,5 +1,5 @@
 
-text = "We are study python "
+text = "We, are study python "
 
-result=text.split()
+result=text.split(",",2)
 print(result)
