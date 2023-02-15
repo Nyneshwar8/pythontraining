@@ -5,6 +5,6 @@ even=[]
 odd=[]
 for i in list:
  if i%2==0:
-    print('{} is an even number.',i)
+  print('{} is an even number.',i)
  else:
     print('{} is an odd number.',i)

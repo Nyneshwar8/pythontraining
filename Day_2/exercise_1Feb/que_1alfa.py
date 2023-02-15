@@ -19,7 +19,7 @@
 #
 # print(alpha.isalpha())
 
-# ---------3prog------------
+# ------------------3prog------------
 
 # year=int(input("Enter Year here:-"))
 #
@@ -28,7 +28,7 @@
 # else:
 #     print("not a leap year:")
 
-# -------4Prog----------
+# -------------4Prog-------------------
 
 # num=int(input("Enter a number"))
 #
@@ -38,7 +38,7 @@
 #     elif i%2!=0:
 #         print(f"{i}number is odd")
 
-# -----5prog------
+# --------------5prog-------------
 # mark=int(input("Enter no:-"))
 # if mark < 35 :
 #     print("fail candidate :",mark)
@@ -47,9 +47,9 @@
 # elif mark >50 and mark <=60:
 #     print("Second class :",mark)
 # elif mark >60 and mark <=70:
-#     print("First class :",mark)
+#     print("Fi,mrst class :",mark)
 # elif mark >70 and mark <=100:
-#     print("Distingtion:",mark)
+#     print("Distinction:",mark)
 
 # -----6Prog---------
 
@@ -86,16 +86,16 @@
 # #  print(list)
 
 # ---11 Prog------
-# a = [1, 2, 3, 4, 5]
-# print(*a)
-#
-# print("printing lists separated by commas")
-#
-# print(*a, sep=", ")
-#
-# print("printing lists in new line")
-#
-# print(*a, sep="\n")
+a = [1, 2, 3, 4, 5]
+print(*a)
+
+print("printing lists separated by commas")
+
+print(*a, sep=", ")
+
+print("printing lists in new line")
+
+print(*a, sep="\n")
 
 # ---12Prog------
 

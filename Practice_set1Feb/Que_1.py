@@ -1,23 +1,21 @@
-# # alpha=input("Enter a alphabet:-")
-# # print(alpha.isalpha())
+# alpha=input("Enter a alphabet:-")
+# print(alpha.isalpha())
+
+
+
+# a=(1,2,6,9,4,6)
 #
-# #
-# # a="\110\145\154\154\157"
-# # print(a)
+# print(a.index(9))
+
+# num=(1,6,8)
 #
-# # a=(1,2,6,9,4,6)
-# #
-# # print(a.index(9))
-# #
-# # num=('1','6','8')
-# #
-# # print( '6 in num:', 6 in num)
+# print( '6 in num:', 6 in num)
+
+# number=("a","b","c","z")
 #
-# # number=("a","b","c","z")
-# #
-# # print( ' a in number:', "a" not in  number)
-# # print( ' a in number:', "a"  in  number)
-#
+# print( ' a in number:', "a" not in  number)
+# print( ' a in number:', "a"  in  number)
+
 # a=((1,2),(3,(5,4),(6,(7,(8,9)))))
 # print(a[1][2][1][1][0])
 

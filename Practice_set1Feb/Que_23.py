@@ -1,4 +1,4 @@
-# Program to Create two lists with EVEN numbers and ODD numbers from a list.
+/# Program to Create two lists with EVEN numbers and ODD numbers from a list.
 list=[1,2,3,4,5,6,7,8,9,10,12,45,35]
 
 even=[]
@@ -11,6 +11,11 @@ for i in list:
     odd.append(i)
 print(even)
 print(odd)
+
+
+
+
+
 
 
 

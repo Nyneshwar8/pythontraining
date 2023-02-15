@@ -1,5 +1,5 @@
 # Python program to split and join string
-list = 'wireless headphone paradies zebronics'
+list1 = 'wireless headphone paradies zebronics'
 
-print(list.split(' '))
-print('-'.join(list))
+print(list1.split(' '))
+print('-'.join(list1))
